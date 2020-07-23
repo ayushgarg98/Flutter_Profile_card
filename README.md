@@ -1,8 +1,10 @@
 # profile_card
 
 A new Flutter application.
+This application shows a basic card layout of a person's profile. 
 
-## Getting Started
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
