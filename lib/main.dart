@@ -25,7 +25,7 @@ class ProfileCard extends StatelessWidget {
                 radius: 100.0,
                 backgroundColor: Colors.blue[400],
                 child: CircleAvatar(
-                  backgroundImage: AssetImage('assets/avatar.jpg'),
+                  backgroundImage: AssetImage('assets/images.png'),
                   radius: 95.5,
                 ),
               ),
@@ -33,7 +33,7 @@ class ProfileCard extends StatelessWidget {
             SizedBox(height: 20.0),
             Center(
               child: Text(
-                "AYUSH GARG",
+                "ROBERT DOWNEY, Jr.",
                 style: TextStyle(
                   fontSize: 30.0,
                   color: Colors.blue[600],
@@ -47,7 +47,7 @@ class ProfileCard extends StatelessWidget {
 
             Center(
               child: Text(
-                "JSS Academy of Technical Education, Noida",
+                "I am IORN MAN",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 15.0,
@@ -70,7 +70,7 @@ class ProfileCard extends StatelessWidget {
                 SizedBox(width: 10.0),
 
                 Text(
-                  "ayushgarg.in@gmail.com",
+                  "ironman@avengers.com",
                   style: TextStyle(
                     fontSize: 18.0,
                     color: Colors.blue[600],
