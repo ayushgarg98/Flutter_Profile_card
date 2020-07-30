@@ -3,6 +3,10 @@
 A new Flutter application.
 This application shows a basic card layout of a person's profile. 
 
+Here is a screenshot of the profile card.
+
+![](assets/screenshot.PNG)
+
 
 ## Getting Started with Flutter
 
