@@ -47,7 +47,7 @@ class ProfileCard extends StatelessWidget {
 
             Center(
               child: Text(
-                "I am IORN MAN",
+                "I am IRON MAN",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 15.0,
